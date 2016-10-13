@@ -1,0 +1,3 @@
+第一个从本地推送到github_testGitTwo的文件
+
+初次提交后的第一次编辑用来测试git status  git diff
